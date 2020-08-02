@@ -1,7 +1,7 @@
 # LuaPlugins
-IOTQQ -- Lua插件  
+Lua插件  
 ``
-直接把lua文件放入Plugins文件夹下即可食用
+直接把lua文件移至Plugins目录下即可食用
 ``
 ## TimeReport.sh的使用  
 将文件中的其他时段的注释删除  
